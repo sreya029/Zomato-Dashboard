@@ -11,3 +11,8 @@ You are hired as a consultant data analyst by zomato where the team is looking f
 ## Zomato-Dashboard
 - <a href="https://github.com/sreya029/Zomato-Dashboard/blob/main/dashboard.png">DashBoard</a>
 - Developed an interactive Excel dashboard to analyze market demand, competition, and cuisine preferences for potential Zomato restaurant locations. Used data-driven insights to identify strategic opportunities for new restaurant openings. Enabled informed decision-making through dynamic visualizations and key performance metrics.
+## Recommendations
+- The ideal countries for opening new restaurants with lower competition are Indonesia, Philippines, New Zealand, and the United Arab Emirates, as they have fewer existing restaurants, reducing market saturation.
+- These locations show high footfall per restaurant, indicating strong dining demand and potential customer engagement.
+- The average cost for two is high, ensuring better revenue generation and profitability.
+
