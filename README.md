@@ -9,7 +9,7 @@ You are hired as a consultant data analyst by zomato where the team is looking f
 - Descriptive Analysis: Employed PivotTables for summarizing key metrics and identifying average order value across different regions and different cuisines.
 - Visualization: Created dynamic charts and dashboards for data representation, enabling Interactive data exploration and for creating best story around the opening of restaurants.
 ## Zomato-Dashboard
-- <a href="https://github.com/sreya029/Zomato-Dashboard/blob/main/dashboard.png">DashBoard</a>
+https://github.com/sreya029/Zomato-Dashboard/blob/main/dashboard.png
 - Developed an interactive Excel dashboard to analyze market demand, competition, and cuisine preferences for potential Zomato restaurant locations. Used data-driven insights to identify strategic opportunities for new restaurant openings. Enabled informed decision-making through dynamic visualizations and key performance metrics.
 ## Recommendations
 - The ideal countries for opening new restaurants with lower competition are Indonesia, Philippines, New Zealand, and the United Arab Emirates, as they have fewer existing restaurants, reducing market saturation.
